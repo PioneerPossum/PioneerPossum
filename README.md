@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PioneerPossum
+- 👋 Hi, I’m @PioneerPossum, AKA Gilbert or Gil!
 - 👀 I’m interested in practicing development as a junior/apprentice programmer!
 - 🌱 I’m currently learning HTML, JavaScript, Python, and Scratch!
 - 💞️ I’m looking to collaborate on anything and everything, as long as it's a learning experience!
